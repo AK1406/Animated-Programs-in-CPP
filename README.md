@@ -1,5 +1,5 @@
 # Animated-Programs
-Link is given for output of all the three programs.
+Links are given to see the whole working of all the three programs.
 
 Program1 Output - https://drive.google.com/open?id=1u4BbLUF76ghRyOe8afY5ObR3POQiFPWD
 
